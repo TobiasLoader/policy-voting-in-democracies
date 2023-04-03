@@ -1,5 +1,7 @@
 # policy-voting-in-democracies
-Suggest policies on a 2d plane – see if the population vote it in.
+Suggest policies on a 2d plane – see if the population vote them in.
+
+TLDR: if you play around with the demo you will notice: so long a the distribution is not symmetric, voting in policies is not transitive. The order in which they are proposed matters.
 
 [Policy Voting in Democracies](https://tobiasloader.github.io/policy-voting-in-democracies)
 
